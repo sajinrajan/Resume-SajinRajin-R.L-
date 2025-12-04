@@ -411,6 +411,14 @@ img {
   display: flex;
   justify-content: center;
 }
+.course__buttons{
+  width: 250px;
+  height: 100px;
+  background-color: var(--first-color);
+  display: flex;
+  justify-content: center;
+  margin-left: 1rem;
+}
 
 
 /*==================== SKILLS ====================*/
